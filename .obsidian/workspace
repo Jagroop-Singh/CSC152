@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "77f8fd47e6ae29b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5c3aa096cea4255",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Galois Fields.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "115f7298d808e788",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b30da4b5110c58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37b8029cbe05bf95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "05e40709bd6dcdda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#AES",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "984bac72622eb47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0b8d9075867ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "323f576a510d09b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Galois Fields.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5c3aa096cea4255",
+  "lastOpenFiles": [
+    "GF.md",
+    "Untitled.md",
+    "AES.md",
+    "Ciphers.md",
+    "Inverse techniques in C.md",
+    "Composing Simple Ciphers.md",
+    "Distinguishing games.md",
+    "Bitwise Operations.md",
+    "Allocating memory.md",
+    "Pictures/Pasted image 20210608123845.png"
+  ]
+}
